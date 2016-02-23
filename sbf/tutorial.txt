@@ -1,0 +1,13 @@
+1.wipe
+手機關機->手機開機並摁住音量+和音量-
+見到小機器人->按home鍵,兩個含wipe選項的都選,其中一個含很多no的選唯一的那個yes（音量+和音量-上下移光標，關機鍵確認操作）
+
+2.刷機
+按裝好兩個msi程序到windows，解壓7z得到sbf文檔
+手機關機->在windows中打開RSD,選好room,連數據線,摁住音量-和攝影鍵,手機開機直到白屏,鬆開,windows的RSD點Start
+
+3.root
+解壓CWMrecovery.zip，把xt316root.zip（不要解壓）放到SD卡根目錄
+windows運行start_recovery.bat，連接手機，電腦按Enter，手機會被重啟，之後
+recovery------mount and stoage------mount /system
+--------choose zip from sdcard--------install zip from sdcard
