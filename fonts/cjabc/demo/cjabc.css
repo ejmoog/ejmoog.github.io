@@ -1,0 +1,73 @@
+.fin0,
+.fin1,
+.fin2,
+.fin3,
+.fin4,
+.fin5,
+.fin,
+.fout {
+	font-size:120px;
+}
+.fin {
+	visibility:hidden;
+}
+.fout {
+	position:relative;
+	display:inline-block;
+}
+.fin0,
+.fin1,
+.fin2,
+.fin3,
+.fin4,
+.fin5 {
+	position:absolute;
+}
+.fin0 {
+	font-family:fin0f;
+
+}
+.fin1 {
+	color:red;
+	font-family:fin1f;
+}
+.fin2 {
+	color:purple;
+	font-family:fin2f;
+}
+.fin3 {
+	color:blue;
+	font-family:fin3f;
+}
+.fin4 {
+	color:green;
+	font-family:fin4f;
+}
+.fin5 {
+	color:brown;
+	font-family:fin5f;
+}
+@font-face {
+	font-family:fin0f;
+	src:url(../cjabc0.woff);
+}
+@font-face {
+	font-family:fin1f;
+	src:url(../cjabc1.woff);
+}
+@font-face {
+	font-family:fin2f;
+	src:url(../cjabc2.woff);
+}
+@font-face {
+	font-family:fin3f;
+	src:url(../cjabc3.woff);
+}
+@font-face {
+	font-family:fin4f;
+	src:url(../cjabc4.woff);
+}
+@font-face {
+	font-family:fin5f;
+	src:url(../cjabc5.woff);
+}

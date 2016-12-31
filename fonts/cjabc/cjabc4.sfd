@@ -1,0 +1,343 @@
+SplineFontDB: 3.0
+FontName: TW-Kai-98_1
+FullName: TW-Kai
+FamilyName: TW-Kai
+Weight: Book
+Copyright: (c) 2012 RDEC, Executive Yuan, ROC. These fonts are licensed under a Creative Commons "Attribution-NoDerivs 3.0 Taiwan" License, and allowed for redistribution, as long as they are passed along unchanged with the original font name and copyright notice.\n
+Version: 98.1
+ItalicAngle: 0
+UnderlinePosition: -129
+UnderlineWidth: 50
+Ascent: 820
+Descent: 204
+sfntRevision: 0x00621999
+LayerCount: 2
+Layer: 0 1 "Back"  1
+Layer: 1 1 "Fore"  0
+XUID: [1021 833 573998151 3457499]
+FSType: 0
+OS2Version: 1
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1255601987
+ModificationTime: 1483199370
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 102
+VLineGap: 0
+Panose: 2 1 6 4 0 1 1 1 1 1
+OS2TypoAscent: 820
+OS2TypoAOffset: 0
+OS2TypoDescent: -204
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 822
+OS2WinAOffset: 0
+OS2WinDescent: 205
+OS2WinDOffset: 0
+HheadAscent: 822
+HheadAOffset: 0
+HheadDescent: -205
+HheadDOffset: 0
+OS2SubXSize: 512
+OS2SubYSize: 512
+OS2SubXOff: 0
+OS2SubYOff: 0
+OS2SupXSize: 512
+OS2SupYSize: 512
+OS2SupXOff: 0
+OS2SupYOff: 512
+OS2StrikeYSize: 51
+OS2StrikeYPos: 256
+OS2FamilyClass: 5
+OS2Vendor: 'PfEd'
+OS2CodePages: 601d01ff.bfff0000
+OS2UnicodeRanges: f7ffaeff.e8dfffff.0817ffff.00000000
+Lookup: 1 0 0 "'rtla' Right to Left Alternates lookup 0"  {"'rtla' Right to Left Alternates lookup 0 subtable"  } ['rtla' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "<1,2> Common Ligatures in Armenian lookup 1"  {"<1,2> Common Ligatures in Armenian lookup 1 subtable"  } [<1,2> ('armn' <'dflt' > ) 'liga' ('armn' <'dflt' > ) ]
+Lookup: 4 0 1 "<1,2> Common Ligatures in Latin lookup 2"  {"<1,2> Common Ligatures in Latin lookup 2 subtable"  } [<1,2> ('latn' <'dflt' > ) 'liga' ('latn' <'dflt' > ) ]
+Lookup: 4 0 1 "<1,2> Common Ligatures in CJK Ideographic lookup 3"  {"<1,2> Common Ligatures in CJK Ideographic lookup 3 subtable"  } [<1,2> ('hani' <'dflt' > ) 'liga' ('hani' <'dflt' > ) ]
+Lookup: 4 0 1 "<1,2> Common Ligatures lookup 4"  {"<1,2> Common Ligatures lookup 4 subtable"  } [<1,2> ('DFLT' <'dflt' > ) 'liga' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "<1,2> Common Ligatures in Arabic lookup 5"  {"<1,2> Common Ligatures in Arabic lookup 5 subtable"  } [<1,2> ('arab' <'dflt' > ) 'liga' ('arab' <'dflt' > ) ]
+Lookup: 4 0 0 "<1,4> Rare Ligatures in Latin lookup 6"  {"<1,4> Rare Ligatures in Latin lookup 6 subtable"  } [<1,4> ('latn' <'dflt' > ) 'dlig' ('latn' <'dflt' > ) ]
+Lookup: 4 0 0 "<11,2> Diagonal Fractions lookup 7"  {"<11,2> Diagonal Fractions lookup 7 subtable"  } [<11,2> ('DFLT' <'dflt' > ) 'frac' ('DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "<1,0> Required Ligatures in Arabic lookup 8"  {"<1,0> Required Ligatures in Arabic lookup 8 subtable"  } [<1,0> ('arab' <'dflt' > ) 'rlig' ('arab' <'dflt' > ) ]
+DEI: 91125
+MacFeat: 0 0 0
+MacName: 0 0 24 "All Typographic Features"
+MacName: 0 1 24 "Fonctions typographiques"
+MacName: 0 2 33 "Alle typografischen M\232glichkeiten"
+MacName: 0 3 21 "Funzioni Tipografiche"
+MacName: 0 4 28 "Alle typografische kenmerken"
+MacSetting: 0
+MacName: 0 0 17 "All Type Features"
+MacName: 0 1 31 "Toutes fonctions typographiques"
+MacName: 0 2 23 "Alle Auszeichnungsarten"
+MacName: 0 3 17 "Tutte le Funzioni"
+MacName: 0 4 18 "Alle typekenmerken"
+MacFeat: 1 0 0
+MacName: 0 0 9 "Ligatures"
+MacName: 0 1 9 "Ligatures"
+MacName: 0 2 9 "Ligaturen"
+MacName: 0 3 8 "Legature"
+MacName: 0 4 9 "Ligaturen"
+MacSetting: 0
+MacName: 0 0 18 "Required Ligatures"
+MacName: 0 1 18 "Ligatures Requises"
+MacName: 0 4 18 "Vereiste ligaturen"
+MacSetting: 2
+MacName: 0 0 16 "Common Ligatures"
+MacName: 0 1 18 "Ligatures Usuelles"
+MacName: 0 2 17 "Normale Ligaturen"
+MacName: 0 3 19 "Legature pi\235 Comuni"
+MacName: 0 4 28 "Gemeenschappelijke Ligaturen"
+MacSetting: 4
+MacName: 0 0 14 "Rare Ligatures"
+MacName: 0 1 15 "Ligatures Rares"
+MacName: 0 2 17 "Seltene Ligaturen"
+MacName: 0 3 13 "Legature Rare"
+MacName: 0 4 18 "Zeldzame ligaturen"
+MacFeat: 11 1 0
+MacName: 0 0 9 "Fractions"
+MacName: 0 1 9 "Fractions"
+MacName: 0 4 7 "Breuken"
+MacSetting: 0
+MacName: 0 0 12 "No Fractions"
+MacName: 0 1 16 "Pas de Fractions"
+MacName: 0 2 11 "Kein Bruche"
+MacName: 0 3 16 "Nessuna Frazione"
+MacName: 0 4 12 "Geen breuken"
+MacSetting: 2
+MacName: 0 0 18 "Diagonal Fractions"
+MacName: 0 1 22 "Fractions en Diagonale"
+MacName: 0 2 16 "Diagonaler Bruch"
+MacName: 0 3 18 "Frazioni Diagonali"
+MacName: 0 4 17 "Diagonale breuken"
+EndMacFeatures
+ShortTable: cvt  13
+  1811
+  0
+  0
+  0
+  0
+  0
+  0
+  30
+  41
+  74
+  96
+  107
+  118
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  -26359
+  1318
+  200
+  0
+  0
+  2
+  4
+  0
+  3
+  0
+  512
+  0
+  0
+  0
+EndShort
+LangName: 1033 "" "" "Regular" "FontForge : TW-Kai : 19-6-2012" 
+LangName: 1028 "+AKkA 2012 +Ti2D72wRVwuITGU/lmJ4FHp2dnxcVYADaDhZ1FThZwMwAmcsW1dXi2qUY6F1KFJ1dSgA-CC+MAxZ01QNahl5Ov8NeYFrYmU5T1wwDQAA-3.0+gfpwY3JIY4hrCmidaz6Ry1H6MAJgqFPvTuVXKE4Ni4pm9FtXV4tRhVu5TktonU72Tgv/DJHNiP0wAWVjXgNTylCzjzhnLFtXV4tqlE5LhFdPXFGFW7kwAmDfYclP3XVZZyxbV1eLVA16MVPKhFdPXGsKgHJmDjAC" "+UWhbV16ra2Npd5rU" "Regular" "" "+UWhbV16ra2Npd5rU" "Version 98.1" "" "Trademark         " 
+GaspTable: 1 65535 2 0
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 35598 51 15
+BeginChars: 65539 2
+
+StartChar: uni6167
+Encoding: 24935 24935 0
+Width: 1024
+LayerCount: 2
+Fore
+SplineSet
+680.007 241.006 m 2,0,-1
+ 714 242 l 1,1,-1
+ 761 244 l 1,2,-1
+ 804 244 l 1,3,4
+ 823 245 823 245 836 246 c 0,5,6
+ 849 246 849 246 852 250 c 256,7,8
+ 855 254 855 254 855 258 c 0,9,10
+ 855 264 855 264 842 272 c 256,11,12
+ 829 280 829 280 814 286 c 0,13,14
+ 799 291 799 291 791 292 c 0,15,16
+ 782 294 782 294 762 290 c 0,17,18
+ 743 286 743 286 728 285 c 256,19,20
+ 713 284 713 284 694 282 c 9,21,-1
+ 631.998 273.996 l 18,22,-1
+ 401 253 l 2,23,24
+ 396.593 252.599 396.593 252.599 327 247 c 2,25,-1
+ 240 240 l 2,26,27
+ 203.369 237.053 203.369 237.053 196 236 c 2,28,-1
+ 163 234 l 2,29,30
+ 151.189 233.284 151.189 233.284 149 230 c 0,31,32
+ 146 226 146 226 155 217 c 256,33,34
+ 164 208 164 208 180 204 c 1,35,36
+ 196 198 196 198 206 198 c 0,37,38
+ 211 198 211 198 223 200 c 256,39,40
+ 229 201 229 201 277 207 c 2,41,-1
+ 333 214 l 1,42,-1
+ 401 221 l 2,43,44
+ 464.467 227.533 464.467 227.533 471 228 c 2,45,-1
+ 625 239 l 1,46,-1
+ 680.007 241.006 l 2,0,-1
+EndSplineSet
+Validated: 524297
+EndChar
+
+StartChar: uni8B58
+Encoding: 35672 35672 1
+Width: 1024
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+575.002 352.004 m 2,0,-1
+ 693 371 l 1,1,2
+ 687 425 687 425 681 469 c 1,3,-1
+ 673 540 l 1,4,-1
+ 669 578 l 2,5,6
+ 663.286 632.286 663.286 632.286 663 634 c 256,7,8
+ 661 646 661 646 657 656 c 0,9,10
+ 653 668 653 668 647 679 c 256,11,12
+ 641 690 641 690 641 696 c 128,-1,13
+ 641 702 641 702 645 706 c 0,14,15
+ 648 708 648 708 653 710 c 1,16,17
+ 657 710 657 710 668 708 c 256,18,19
+ 679 706 679 706 683 705 c 256,20,21
+ 687 704 687 704 707 697 c 256,22,23
+ 727 690 727 690 735 684 c 256,24,25
+ 743 678 743 678 743 672 c 0,26,27
+ 744 666 744 666 739 654 c 0,28,29
+ 733 642 733 642 731 628 c 0,30,31
+ 729 615 729 615 731 585 c 1,32,33
+ 731 556.4 731 556.4 733 527 c 2,34,-1
+ 743 380 l 1,35,36
+ 759 382 759 382 773 385 c 2,37,-1
+ 801 391 l 1,38,-1
+ 824 396 l 2,39,40
+ 837.8 399 837.8 399 843 399 c 0,41,42
+ 851 398 851 398 865 394 c 256,43,44
+ 879 390 879 390 889 385 c 256,45,46
+ 899 380 899 380 907 374 c 0,47,48
+ 914 368 914 368 914 362 c 0,49,50
+ 914.913 356.519 914.913 356.519 902 355 c 2,51,-1
+ 885 353 l 2,52,53
+ 857.915 349.814 857.915 349.814 827 349 c 0,54,55
+ 789 347 789 347 783 346 c 2,56,-1
+ 749 344 l 1,57,58
+ 751 322 751 322 755 298 c 0,59,60
+ 758 275 758 275 767 236 c 1,61,62
+ 774.429 198.857 774.429 198.857 783 176 c 2,63,-1
+ 792 152 l 1,64,65
+ 801 168 801 168 807 180 c 0,66,67
+ 813 193 813 193 817 204 c 256,68,69
+ 821 215 821 215 829 241 c 0,70,71
+ 837 266 837 266 833 282 c 0,72,73
+ 830 298 830 298 831 301 c 0,74,75
+ 831 304 831 304 835 306 c 0,76,77
+ 837 307 837 307 845 306 c 0,78,79
+ 855 304 855 304 864 300 c 128,-1,80
+ 873 296 873 296 883 287 c 1,81,82
+ 895 278 895 278 900 270 c 128,-1,83
+ 905 262 905 262 905 257 c 1,84,85
+ 903 253 903 253 894 244 c 0,86,87
+ 883.263 233.263 883.263 233.263 874 216 c 2,88,-1
+ 852 175 l 1,89,-1
+ 821 122 l 1,90,-1
+ 809 101 l 1,91,92
+ 815 82 815 82 819 71 c 256,93,94
+ 823 60 823 60 839 34 c 0,95,96
+ 855 6 855 6 865 -8 c 0,97,98
+ 876 -23 876 -23 888 -34 c 1,99,100
+ 899.791 -43.0698 899.791 -43.0698 906 -41 c 0,101,102
+ 909 -40 909 -40 913 -28 c 0,103,104
+ 917 -17 917 -17 919 -10 c 0,105,106
+ 921 -2 921 -2 924 18 c 256,107,108
+ 927 38 927 38 931 60 c 2,109,-1
+ 935 82 l 2,110,111
+ 937.545 96.0001 937.545 96.0001 943 96 c 1,112,113
+ 948 95 948 95 948 85 c 2,114,-1
+ 948 62 l 2,115,116
+ 948 52 948 52 949 32 c 0,117,118
+ 950 11 950 11 952 -10 c 0,119,120
+ 954 -30 954 -30 958 -50 c 256,121,122
+ 962 -70 962 -70 967 -86 c 0,123,124
+ 973 -102 973 -102 973 -109 c 0,125,126
+ 974 -116 974 -116 973 -119 c 0,127,128
+ 971.714 -122.857 971.714 -122.857 964 -128 c 1,129,130
+ 957 -131 957 -131 949 -131 c 0,131,132
+ 927 -132 927 -132 908 -122 c 0,133,134
+ 888 -111 888 -111 865 -87 c 0,135,136
+ 841 -63 841 -63 822 -35 c 0,137,138
+ 804.68 -10.3868 804.68 -10.3868 785 32 c 2,139,-1
+ 772 60 l 1,140,141
+ 761 50 761 50 751 42 c 0,142,143
+ 742 35 742 35 719 21 c 0,144,145
+ 697 7 697 7 687 2 c 0,146,147
+ 675.154 -3.38461 675.154 -3.38461 671 -5 c 2,148,-1
+ 653 -12 l 2,149,150
+ 645.059 -15.0882 645.059 -15.0882 643 -12 c 0,151,152
+ 641.143 -8.28569 641.143 -8.28569 649 -2 c 2,153,-1
+ 659 6 l 2,154,155
+ 666.647 12.1176 666.647 12.1176 671 16 c 2,156,-1
+ 708 49 l 1,157,158
+ 725 66 725 66 739 82 c 1,159,-1
+ 753 100 l 1,160,-1
+ 743 136 l 2,161,-1
+ 718 226 l 1,162,-1
+ 703 310 l 1,163,-1
+ 697 338 l 1,164,-1
+ 560 318 l 2,165,166
+ 555.702 317.373 555.702 317.373 524 310 c 2,167,-1
+ 481 300 l 2,168,169
+ 452.334 293.334 452.334 293.334 451 293 c 0,170,171
+ 439 290 439 290 434 290 c 1,172,173
+ 425 288 425 288 416 291 c 0,174,175
+ 406 294 406 294 395 298 c 0,176,177
+ 383 302 383 302 376 307 c 256,178,179
+ 369 312 369 312 370 317 c 0,180,181
+ 372 322 372 322 379 322 c 1,182,-1
+ 398 326 l 1,183,-1
+ 437 331 l 1,184,-1
+ 479.99 337.996 l 2,185,-1
+ 489 339 l 1,186,-1
+ 553 350 l 1,187,-1
+ 575.002 352.004 l 2,0,-1
+793 577 m 1,188,-1
+ 789 586 l 1,189,190
+ 783 594 783 594 787 598 c 1,191,192
+ 789 602 789 602 797 601 c 2,193,-1
+ 811 598 l 2,194,195
+ 817 596 817 596 831 592 c 0,196,197
+ 846 588 846 588 860 581 c 256,198,199
+ 874 574 874 574 883 565 c 0,200,201
+ 891 556 891 556 896 546 c 0,202,203
+ 900 536 900 536 900 520 c 0,204,205
+ 901 502 901 502 895 494 c 1,206,207
+ 891 485 891 485 883 483 c 0,208,209
+ 875 480 875 480 865 486 c 0,210,211
+ 857 490 857 490 843 505 c 256,212,213
+ 829 520 829 520 821 534 c 2,214,-1
+ 806 559 l 1,215,-1
+ 793 577 l 1,188,-1
+EndSplineSet
+Validated: 524321
+EndChar
+EndChars
+EndSplineFont
