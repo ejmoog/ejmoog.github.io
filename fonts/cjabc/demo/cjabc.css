@@ -71,3 +71,47 @@
 	font-family:fin5f;
 	src:url(../cjabc5.woff);
 }
+
+.afin1 {
+    animation: nuka1 10s linear 0s infinite normal;
+}
+.afin2 {
+    animation: nuka2 10s linear 0s infinite normal;
+}
+.afin3 {
+    animation: nuka3 10s linear 0s infinite normal;
+    /* animation: nuka 2s linear 12s infinite normal; */
+}
+.afin4 {
+    animation: nuka4 10s linear 0s infinite normal;
+    /* animation: nuka 2s linear 16s infinite normal; */
+}
+.afin5 {
+    animation: nuka5 10s linear 0s infinite normal;
+    /* animation: nuka 2s linear 20s infinite normal; */
+}
+@keyframes nuka1 {
+	0% { color:brown; }
+	10% { color:white; }
+	20% { color:brown; }
+}
+@keyframes nuka2 {
+	20% { color:purple; }
+	30% { color:white; }
+	40% { color:purple; }
+}
+@keyframes nuka3 {
+	40% { color:blue; }
+	50% { color:white; }
+	60% { color:blue; }
+}
+@keyframes nuka4 {
+	60% { color:green; }
+	70% { color:white; }
+	80% { color:green; }
+}
+@keyframes nuka5 {
+	80% { color:brown; }
+	90% { color:white; }
+	100% { color:brown; }
+}
